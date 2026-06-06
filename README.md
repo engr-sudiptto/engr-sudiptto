@@ -1,21 +1,61 @@
-![My-background-image](image/bammer_main_2.jpg)
+![My-background-image](image/myBanner.jpg)
 
-# Hi there! I am Sudipto Das.
-
-**Lead Front-End Engineer | React, Next.js, JS & TS | Bridging UI/UX Architecture with Scalable Styling (Sass & Tailwind CSS)**
-
-### About Me:
-As a Lead Front-End Engineer with over 3 years of hands-on experience in web development, I act as the bridge between UI/UX architecture and scalable front-end logic. I specialize in building complex dashboards, interactive and high-performing SaaS interfaces, and scalable e-commerce platforms.
-
-### What I Build:
-Throughout my career, I have focused on architecting and developing large-scale web applications. With my core expertise in State, Logic, Real-time Data Visualization, API Integration, Design & UI/UX, I can build a high-traffic E-commerce platform, scalable SaaS products or a Travel Booking or Weather App. Whether I am building complex front-end structures or making sure a design looks perfect across different products, my goal is always to provide the best possible experience for the user.
-<br>
 <br>
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,redux,jquery,regex,html,css,tailwind,sass,bootstrap,git)
+# Hi there! I am ***Sudipto Das***.
 
-### Other:
-![My Skills](https://skillicons.dev/icons?i=figma,wordpress,photoshop,github,md)
+### ***Full Stack Engineer*** | React • Next.js • Node.js • Express.js • MongoDB • TypeScript • JavaScript
+
+## About Me:
+I'm a Full Stack Engineer with hands-on experience building modern web applications from frontend interfaces to backend architecture.
+<br>
+<br>
+My expertise includes developing scalable React and Next.js applications, designing REST APIs with Node.js and Express, managing databases with MongoDB and SQL, and integrating cloud-based solutions using Firebase.
+<br>
+<br>
+I focus on writing clean, maintainable code and building products that deliver excellent user experiences while remaining scalable and performant.
+
+
+## What I Build:
+
+🚀 SaaS Platforms<br>
+🛒 E-commerce Applications<br>
+📊 Dashboard & Admin Panels<br>
+🌍 Business & Corporate Websites<br>
+📱 Responsive Web Applications<br>
+🔐 Authentication & Authorization Systems<br>
+⚡ API Integration & Backend Services<br>
+☁️ Cloud-based Applications<br>
+
+
+## Tech Stack
+#### Frontend: <br>
+![My Skills](https://skillicons.dev/icons?i=react,next,js,ts,html,css)
+
+#### Styling:<br>
+![My Skills](https://skillicons.dev/icons?i=scss,tailwind,bootstrap)
+
+#### State Management:<br>
+![My Skills](https://skillicons.dev/icons?i=redux)
+
+#### Backend: <br>
+![My Skills](https://skillicons.dev/icons?i=nodejs,express)
+
+#### Database:<br>
+![My Skills](https://skillicons.dev/icons?i=mongo)
+
+#### Authentication & Cloud:<br>
+![My Skills](https://skillicons.dev/icons?i=firebase)
+
+
+#### Other Tools:<br>
+![My Skills](https://skillicons.dev/icons?i=git,github,markdown,regex,figma,photoshop,wordpress)
+<br>
+
+## Current Learning Section:<br>
+![My Skills](https://skillicons.dev/icons?i=py)<br>
+I'm currently learning ***“python”*** 
+
 
 <br>
 
