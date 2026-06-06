@@ -1,6 +1,5 @@
 ![My-background-image](image/myBanner.jpg)
 
-<br>
 
 # Hi there! I am ***Sudipto Das***.
 
