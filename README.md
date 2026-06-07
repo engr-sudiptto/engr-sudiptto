@@ -30,16 +30,16 @@ I focus on writing clean, maintainable code and building products that deliver e
 ☁️ Cloud-based Applications<br>
 
 ## Featured Expertise
-✔ Responsive Design<br>
-✔ API Integration<br>
-✔ Authentication Systems<br>
-✔ CRUD Applications<br>
-✔ REST API Development<br>
-✔ Component Architecture<br>
-✔ Performance Optimization<br>
-✔ SEO Friendly Applications<br>
-✔ Database Design<br>
-✔ Clean Code Principles
+- Responsive Design<br>
+- API Integration<br>
+- Authentication Systems<br>
+- CRUD Applications<br>
+- REST API Development<br>
+- Component Architecture<br>
+- Performance Optimization<br>
+- SEO Friendly Applications<br>
+- Database Design<br>
+- Clean Code Principles
 <br>
 
 
@@ -68,7 +68,7 @@ I focus on writing clean, maintainable code and building products that deliver e
 ![My Skills](https://skillicons.dev/icons?i=git,github,markdown,regex,figma,photoshop,wordpress)
 <br>
 
-## Current Learning Section:<br>
+## Current Learning<br>
 ![My Skills](https://skillicons.dev/icons?i=py)<br>
 🌱 I'm currently learning ***“python”*** 
 
@@ -86,15 +86,14 @@ I choose the modern JavaScript ecosystem like React, Next.js, JS, and TypeScript
 - **Firebase & Cloud Tools:** Used for secure user authentication, real-time database solutions, and quick cloud deployment without managing complex server infrastructures.
 - **Python (Current Learning):** Expanding my horizons into scripting, automation, and data logic to write even more versatile and efficient backend systems.
 <br>
-<br>
 
 ## Available For
-✔ Freelance Projects<br>
-✔ Frontend Development<br>
-✔ Full Stack Development<br>
-✔ Website Redesign<br>
-✔ React & Next.js Applications<br>
-✔ Business Websites<br>
+- Freelance Projects<br>
+- Frontend Development<br>
+- Full Stack Development<br>
+- Website Redesign<br>
+- React & Next.js Applications<br>
+- Business Websites<br>
 
 
 ## 📫  Let's Connect
